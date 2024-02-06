@@ -1,5 +1,5 @@
 - 👋 I'm Mahsa Farnia
-- 👀 I’m interested in bioinformatics, Algorithms and Data Structures, Data Analysis
+- 👀 I’m interested in bioinformatics, Algorithms, Data Structures and Data Analysis
 - 📫 Reach me Mahsa.Farnia@USherbrooke.ca | mahsafarnia@yahoo.com
 
 <!---
