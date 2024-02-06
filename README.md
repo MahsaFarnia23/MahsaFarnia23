@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Mahsa Farnia
-- 👀 I’m interested in bioinformatics
-- 🌱 I’m currently Algorithms and Data Structures, Data Analysis
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Mahsa.Farnia@USherbrooke.ca
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 I'm Mahsa Farnia
+- 👀 I’m interested in bioinformatics, Algorithms and Data Structures, Data Analysis
+- 📫 Reach me Mahsa.Farnia@USherbrooke.ca | mahsafarnia@yahoo.com
 
 <!---
 MahsaFarnia23/MahsaFarnia23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
