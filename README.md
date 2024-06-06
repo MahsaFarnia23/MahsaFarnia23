@@ -1,4 +1,3 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/007/962/458/non_2x/bioinformatics-white-color-icon-human-genome-research-biochemical-information-analysis-by-computer-biological-data-molecular-genetics-info-storage-bioengineering-isolated-illustration-vector.jpg)
 
 <h1 align="center">Hi 👋, I'm Mahsa</h1>
 <h3 align="center">A bioinformatics reseasrcher from Canada</h3>
