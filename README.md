@@ -10,6 +10,8 @@
 
 - 🔭 I’m currently working on **classifying lineage trees**
 
+- 👨‍💻 I’m interested in Bioinformatics, Data Science, Algorithms, Statistical analysis, Data Visualization
+
 - 🌱 I’m currently learning **SQL**
 
 - 👯 I’m looking to collaborate on **focused on developing advanced methods for classifying lineage trees**
