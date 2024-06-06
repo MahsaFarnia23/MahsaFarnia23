@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Mahsa</h1>
 <h3 align="center">A bioinformatics reseasrcher from Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.a66ba4a9c2760d70aa056c763c8bbe74?rik=pC%2bBXM9fveYOoA&riu=http%3a%2f%2f4.bp.blogspot.com%2f_wPH_7OeZsbI%2fTRVrIu1nLJI%2fAAAAAAAACuM%2f3NmgiI-_9K0%2fs1600%2fchatroom.gif&ehk=w9xFd750TVLX60DkoBrChw9ZDVjXPaglLT9QsfR9hJo%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1">
