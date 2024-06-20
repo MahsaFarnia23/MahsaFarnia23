@@ -6,8 +6,7 @@
 
 - 🔭 I’m currently working on **classifying lineage trees**
 
-- 👨‍💻 I’m interested in Bioinformatics, Data Science, Algorithms, Statistical analysis, Data Visualization
-
+- 👨‍💻 I'm deeply fascinated by the realms of machine learning, data analysis, and Bioinformatics driven by the challenge of designing sophisticated predictive models and algorithms that can unravel complex patterns and insights from data. 
 - 🌱 I’m currently learning **SQL**
 
 - 👯 I’m looking to collaborate on **focused on developing advanced methods for classifying lineage trees**
