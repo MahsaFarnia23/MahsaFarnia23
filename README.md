@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahsafarnia23&label=Profile%20views&color=0e75b6&style=flat" alt="mahsafarnia23" /> </p>
 
-- 🔭 I’m currently working on **classifying lineage trees** using advanced bioinformatics methods and data science techniques.
+- 🔭 I’m currently working on **clutering lineage trees** using advanced bioinformatics methods and data science techniques.
 - 👨‍💻 Passionate about **machine learning**, **data analysis**, and **bioinformatics**. I enjoy designing predictive models and algorithms that can reveal insights from complex biological data.
 - 📫 How to reach me: **Mahsa.Farnia@USherbrooke.ca** | **mahsafarnia@yahoo.com**
 
