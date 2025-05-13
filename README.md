@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahsafarnia23&label=Profile%20views&color=0e75b6&style=flat" alt="mahsafarnia23" /> </p>
 
-- 🔭 I’m currently working on **clutering lineage trees** using advanced bioinformatics methods and data science techniques.
-- 👨‍💻 Passionate about **machine learning**, **data analysis**, **data science**, and **bioinformatics**. I enjoy designing predictive models and algorithms that can reveal insights from complex biological data.
+- 🔭 I am a bioinformatics researcher specializing in **B cell lineage trees** and exploring **machine learning techniques** for cancer evaluations. My work focuses on predictive modeling and understanding immune cell evolution to drive precision medicine. I’m passionate about leveraging data to solve complex biological challenges.- 👨‍💻 Passionate about **machine learning**, **data analysis**, **data science**, and **bioinformatics**.
 - 📫 How to reach me: **Mahsa.Farnia@USherbrooke.ca** | **mahsafarnia@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
