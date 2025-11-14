@@ -17,10 +17,6 @@ I enjoy transforming raw data into actionable insights, performing statistical a
 - **METABRIC Project (Data Analysis & Visualization)**  
   Analyzed genomic and phenotypic data, applied clustering, and produced dashboards and visual summaries to identify patterns across breast cancer subtypes.
 
-- **Mini Data Projects**  
-  Short exercises on sales analysis, COVID-19 data visualization, and SQL querying to demonstrate data wrangling and reporting skills.
-
----
 
 ### 💻 Tools & Languages
 <p align="left"> 
