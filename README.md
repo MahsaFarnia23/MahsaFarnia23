@@ -10,7 +10,7 @@ I enjoy transforming raw data into actionable insights, performing statistical a
 
 ---
 
-### 🧪 Key Projects
+###  Key Projects
 - **Breast Cancer Diagnosis (Python, Pandas, Scikit-learn)**  
   Built a full ML pipeline including data cleaning, feature selection, and model evaluation. Created visualizations to communicate insights.
 
