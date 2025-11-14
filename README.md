@@ -33,7 +33,7 @@ I enjoy transforming raw data into actionable insights, performing statistical a
 
 ### 📫 How to Reach Me
 📧 Mahsa.Farnia@USherbrooke.ca | 📧 mahsafarnia@yahoo.com  
-[LinkedIn](https://linkedin.com/in/mahsa-farnia)
+[LinkedIn](https://www.linkedin.com/in/mahsafarnia/)
 
 ---
 
