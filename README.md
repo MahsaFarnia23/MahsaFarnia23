@@ -26,6 +26,9 @@ I enjoy transforming raw data into actionable insights, performing statistical a
   <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
   <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/PowerBI_logo.svg" alt="powerbi" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.sqlite.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="sqlite" width="40" height="40"/>
+</a>
 </p>
 
 ---
