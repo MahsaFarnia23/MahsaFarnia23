@@ -11,6 +11,9 @@ I enjoy transforming raw data into actionable insights, performing statistical a
 ---
 
 ###  Key Projects
+- **E-Commerce-Sales-Analysis**
+- Using SQL on a synthetic e-commerce database to analyze sales performance, customer profitability, regional trends, and discount impact, and to extract clear, actionable business insights.
+
 - **Breast Cancer Diagnosis (Python, Pandas, Scikit-learn)**  
   Built a full ML pipeline including data cleaning, feature selection, and model evaluation. Created visualizations to communicate insights.
 
