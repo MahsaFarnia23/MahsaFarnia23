@@ -11,6 +11,9 @@ I enjoy transforming raw data into actionable insights, performing statistical a
 ---
 
 ###  Key Projects
+- **Hospital Management Analytics (SQL)**
+  Built an end-to-end SQL analytics project on hospital operations, translating raw healthcare data into executive-level KPIs and management recommendations. 
+
 - **E-Commerce-Sales-Analysis (SQL, Python)**  
   Using SQL on a synthetic e-commerce database to analyze sales performance, customer profitability, regional trends, and discount impact, and to extract clear, actionable business insights.
 
