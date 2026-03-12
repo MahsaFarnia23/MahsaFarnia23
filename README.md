@@ -11,9 +11,9 @@ I enjoy transforming raw data into actionable insights, performing statistical a
 ---
 
 ###  Key Projects
-- **BC-Housing-Dashboard**
+  - **BC-Housing-Dashboard (PowerBI)**  
   Built an end-to-end Power BI dashboard converting raw housing data into an interactive executive-level report with KPI modeling and insights on housing supply and rental market trends.
-  
+
 - **Hospital Management Analytics (SQL)**  
   Built an end-to-end SQL analytics project on hospital operations, translating raw healthcare data into executive-level KPIs and management recommendations. 
 
