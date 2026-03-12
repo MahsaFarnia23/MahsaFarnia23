@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=mahsafarnia23&label=Profile%20views&color=0e75b6&style=flat" alt="mahsafarnia23" /> 
 </p>
 
-📊 I am an aspiring **Data Analyst** with a strong background in **Python, SQL, Excel, and data visualization**. 
+📊 I am an aspiring **Data Analyst** with a strong background in **PowerBI, SQL, Excel, Python, and data visualization**. 
 I enjoy transforming raw data into actionable insights, performing statistical analysis, and creating dashboards to support data-driven decisions.
 
 ---
